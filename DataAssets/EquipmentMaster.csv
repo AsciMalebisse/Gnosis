@@ -1,0 +1,3 @@
+﻿EquipmentName,ImagePath,ItemLevel,EquipmentType,FirstStat,SecondStat,ThirdStat,FourthStat,FifthStat,ArmorValue,BarrierValue,VitalityValue,FirstValue,SecondValue,ThirdValue,FourthValue,FifthValue,DefenseDelta,VitalityDelta,FirstDelta,SecondDelta,ThirdDelta,FourthDelta,FifthDelta
+TestEquipment,Texture2D'/Game/Equipment/EquipmentIconImages/Aria.Aria',10,Light,Prowess,Mysticism,CritChance,Haste,Instincts,32,21,19,18,14,15,12,8,3,3,4,4,4,4,4
+TestEquipment2,Texture2D'/Game/Equipment/EquipmentIconImages/Aria.Aria',22,Heavy,Sorcery,Haste,None,None,None,12,4,8,6,4,,,,2,2,2,2,,,
