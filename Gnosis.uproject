@@ -19,6 +19,24 @@
 			"Name": "VictoryBPLibrary",
 			"Enabled": true,
 			"MarketplaceURL": "http://www.ue4code.com"
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux"
+			]
+		},
+		{
+			"Name": "OculusVR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Android"
+			]
 		}
 	]
 }
